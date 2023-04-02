@@ -9,8 +9,8 @@
     "Rename"
   ],
   "success_url": "https://t.me/rename1robot",
-  "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/FileRenameBot",
+  "website": "https://github.com/Shubhamdev64",
+  "repository": "https://github.com/Shubhamdev64/FileRenameBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -59,7 +59,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "Eco"
     }
   }
 }
